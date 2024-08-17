@@ -434,7 +434,7 @@ body {
 .footer-email{
     background-color: #1976D2;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding-top: 3rem;
     padding-bottom: 3rem;
